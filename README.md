@@ -1,3 +1,3 @@
 # git-workflow-merge-conflicts
-repository for practice
-added some text
+1) repository for practice
+2) added some text
