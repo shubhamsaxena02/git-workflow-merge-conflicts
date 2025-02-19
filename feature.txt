@@ -1,2 +1,2 @@
 added sample feature
-updated feature.txt file in main branch
+merged update in feature.txt file from main branch and fix branch
